@@ -6,7 +6,7 @@ To write a python program for implementing Address Resolution Protocol(ARP).
 
 ## ALGORITHM :
 ## Client :
-```python
+```
 1.Start the program
 2.Using socket connection is established between client and server.
 3.Get the IP address to be converted into MAC address.
@@ -14,7 +14,7 @@ To write a python program for implementing Address Resolution Protocol(ARP).
 5.Server returns the MAC address to client.
 ```
 ## Server :
-```python
+```
 1.Start the program
 2.Accept the socket which is created by the client.
 3.Server maintains the table in which IP and corresponding MAC addresses are stored.
